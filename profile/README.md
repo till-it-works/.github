@@ -13,4 +13,4 @@ Your workflow source code and data. An MCP-first workspace where humans and AI a
 Native iOS app for AWS cost monitoring. Push alerts on spend changes and AI-powered cost recommendations — your AWS bill in your pocket.
 
 ## Contact
-Questions, feedback or partnership ideas: via [till-it-works.de](https://till-it-works.de).
+Questions, feedback or partnership ideas: [me@till-it-works.de](mailto:me@till-it-works.de) · [till-it-works.de](https://till-it-works.de)
